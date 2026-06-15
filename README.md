@@ -1,4 +1,4 @@
-[README.md](https://github.com/user-attachments/files/28762767/README.md)# Hi there, I'm Damilare 👋
+# Hi there, I'm Damilare 👋
 
 **Computer Science student at the University of Essex** | Building things with code and curiosity.
 
