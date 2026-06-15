@@ -1,4 +1,4 @@
-# Hi there, I'm Damilare 👋
+# Hi there, I'm Dami 👋
 
 **Computer Science student at the University of Essex** | Building things with code and curiosity.
 
