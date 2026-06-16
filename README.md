@@ -6,7 +6,7 @@
 
 ## About Me
 
-I'm a CS student with a genuine interest in software development and machine learning. I have experience working in both IT support and software engineering roles, and I enjoy working on projects that solve real problems.
+I'm a CS student with an interest in software development and machine learning. I have experience working in both IT support and software engineering roles, and I enjoy working on projects that solve real problems.
 
 - Currently studying BSc Computer Science at the University of Essex
 - I write mostly in **Java**, **Python**, and **JavaScript**
